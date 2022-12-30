@@ -3,18 +3,18 @@
     <output-path>$PROJECT_DIR$/out/artifacts/LabaParser_jar</output-path>
     <root id="archive" name="LabaParser.jar">
       <element id="module-output" name="LabaParser" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/19-ea+7/javafx-fxml-19-ea+7.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19-ea+7/javafx-base-19-ea+7.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19-ea+7/javafx-graphics-19-ea+7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/checker-1.9.11.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/19-ea+7/javafx-fxml-19-ea+7-win.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/checker-1.9.11.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19-ea+7/javafx-base-19-ea+7-win.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19-ea+7/javafx-graphics-19-ea+7-win.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/19-ea+7/javafx-controls-19-ea+7-win.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/19-ea+7/javafx-controls-19-ea+7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19-ea+7/javafx-graphics-19-ea+7-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19-ea+7/javafx-base-19-ea+7-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19-ea+7/javafx-graphics-19-ea+7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19-ea+7/javafx-base-19-ea+7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/19-ea+7/javafx-controls-19-ea+7-win.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
